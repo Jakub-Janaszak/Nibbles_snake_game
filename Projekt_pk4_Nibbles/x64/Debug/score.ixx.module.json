@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\score.ixx.obj",
+            "outputs": [
+                "D:\\Studia\\sem 4\\PK4\\Projekt\\Projekt_pk4_Nibbles\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\Studia\\sem 4\\PK4\\Projekt\\Projekt_pk4_Nibbles\\x64\\Debug\\score.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "score",
+                    "source-path": "d:\\studia\\sem 4\\pk4\\projekt\\projekt_pk4_nibbles\\score.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

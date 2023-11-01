@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\studia\\sem 4\\pk4\\projekt\\projekt_pk4_nibbles\\score.ixx",
+        "ProvidedModule": "score",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
